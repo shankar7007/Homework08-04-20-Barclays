@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e6f660f3-5b8e-4b4d-a5bd-c7be19863f62" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a7gotHRbm2gy4mUv4hmdgdKNge" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="uk.gov.harrow.utility" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\IdeaProjects\barclays-maven-myproject\harrow-maven-myproject\harrow-maven-myproject" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.TestCase">
+    <configuration name="TestCase" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="harrow-maven-myproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uk.gov.harrow.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="uk.gov.harrow.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="uk.gov.harrow.testsuite.TestCase" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCase.clickOnloginOrRegisterLink" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="harrow-maven-myproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uk.gov.harrow.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="uk.gov.harrow.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="uk.gov.harrow.testsuite.TestCase" />
+      <option name="METHOD_NAME" value="clickOnloginOrRegisterLink" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCase.loginOrRegisterLink" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="harrow-maven-myproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uk.gov.harrow.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="uk.gov.harrow.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="uk.gov.harrow.testsuite.TestCase" />
+      <option name="METHOD_NAME" value="loginOrRegisterLink" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestCase" />
+        <item itemvalue="TestNG.TestCase.clickOnloginOrRegisterLink" />
+        <item itemvalue="TestNG.TestCase.loginOrRegisterLink" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6f660f3-5b8e-4b4d-a5bd-c7be19863f62" name="Default Changelist" comment="" />
+      <created>1586092223224</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586092223224</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="78" key="GridCell.Tab.0.bottom" timestamp="1586126343184">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="52" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1586115934027" />
+    <state width="1877" height="78" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1586126343184" />
+    <state width="1877" height="78" key="GridCell.Tab.0.center" timestamp="1586126343184">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="52" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1586115934027" />
+    <state width="1877" height="78" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1586126343184" />
+    <state width="1877" height="78" key="GridCell.Tab.0.left" timestamp="1586126343184">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="52" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1586115934027" />
+    <state width="1877" height="78" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1586126343184" />
+    <state width="1877" height="78" key="GridCell.Tab.0.right" timestamp="1586126343184">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="52" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1586115934027" />
+    <state width="1877" height="78" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1586126343184" />
+    <state x="2034" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1586250877012">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2034" y="349" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1586250877012" />
+    <state x="1457" y="99" key="new project wizard" timestamp="1586123359402">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="65" y="69" key="new project wizard/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1586112901495" />
+    <state x="1457" y="99" key="new project wizard/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1586123359402" />
+  </component>
+</project>
